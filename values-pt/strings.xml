@@ -2347,7 +2347,7 @@ Contras: Menos desafios</string>
     <string name="wealthy_poor">Pobre</string>
     <string name="wealthy_medium">Médio</string>
     <string name="wealthy_rich">Riquíssimo</string>
-    <string name="ci_rci_res">Residencial</string>
+    <string name="ci_rci_res">Resiêncial</string>
     <string name="ci_rci_com">Comercial</string>
     <string name="ci_rci_ind">Industrial</string>
     <string name="settings_supportdrawingintwomodetools">Suporte de arrastamento em ferramentas de dois modos</string>
@@ -2394,7 +2394,7 @@ Contras: Menos desafios</string>
     <string name="settings_uisize_smaller">Menor</string>
     <string name="createcity_desert">Deserto</string>
     <string name="createcity_snow">Neve</string>
-    <string name="weather_sunny">Sunny</string>
+    <string name="weather_sunny">Ensolarado</string>
     <string name="weather_rainy">Chuva</string>
     <string name="weather_lighting">Tempestade de trovoada</string>
     <string name="weather_auto">Dinâmico</string>
@@ -2482,26 +2482,26 @@ Ao conectar o jogo a uma conta no TheoTown Forum, você pode participar das seç
     <string name="control_report">Relatório</string>
     <string name="stage_regioncity_reportsubject">a cidade %1$s</string>
     <string name="stage_regioncity_owner">Proprietário: %1$s</string>
-    <string name="stage_regioncity_playtime">Hora de brincar: %1$s</string>
+    <string name="stage_regioncity_playtime">Tempo de jogo: %1$s</string>
 
 
     <string name="draft_asphalt03_title">Asfalto leve</string>
     <string name="draft_asphalt04_title">Asfalto branco</string>
     <string name="draft_concrete00_text">Algum concreto para fins decorativos.</string>
-    <string name="draft_concrete00_title">Betão</string>
-    <string name="draft_concrete01_title">Betão despojado</string>
+    <string name="draft_concrete00_title">Concreto</string>
+    <string name="draft_concrete01_title">Concreto despojado</string>
     <string name="createregion_regionname">Nome da região:</string>
     <string name="dialog_regionrules_allowsandbox">O Sandbox é permitido.</string>
     <string name="dialog_regionrules_notallowsandbox">O Sandbox não está disponível aqui.</string>
     <string name="dialog_configureregion_rules">Regras</string>
     <string name="dialog_configureregion_infos">Informações</string>
     <string name="dialog_configureregion_allowplugins">Permitir plugins</string>
-    <string name="dialog_configureregion_allowsandbox">Permitir caixa de areia</string>
+    <string name="dialog_configureregion_allowsandbox">Permitir Sandbox</string>
     <string name="draft_sandstonetiles00_text">Terreno decorativo.</string>
     <string name="draft_sandstonetiles00_title">Ladrilhos de grés</string>
     <string name="draft_brick00_title">Tijolo</string>
     <string name="draft_woodenpier00_title">Cais de madeira</string>
-    <string name="draft_cobblestones00_title">Cobblestone</string>
+    <string name="draft_cobblestones00_title">Pedregulho</string>
     <string name="draft_fancylongtiles00_title">Azulejos longos extravagantes</string>
     <string name="draft_finemarble00_title">Mármore fino</string>
     <string name="settings_nightmode">Modo noturno</string>
@@ -2529,7 +2529,7 @@ Ao conectar o jogo a uma conta no TheoTown Forum, você pode participar das seç
     <string name="dialog_removeowner_title">Remover proprietário</string>
     <string name="dialog_removeowner_text">Tem a certeza que quer remover %1$s deste enredo?\n\n Isto não pode ser desfeito.</string>
     <string name="dialog_removeowner_cmdremove">Remover</string>
-    <string name="stage_regioncity_lastplayed">Última jogada: (#0##) atrás</string>
+    <string name="stage_regioncity_lastplayed">Última jogada: %1$s atrás</string>
     <string name="ci_loan_get_text2">Valor: %1$s
 (#1##)Prazo: %2$,d meses
 \nCustos mensais: %3$s</string>
@@ -2546,102 +2546,102 @@ Ao conectar o jogo a uma conta no TheoTown Forum, você pode participar das seç
     <string name="dialog_regionstats_cities">%1$d / %2$d cidades</string>
 
 
-    <string name="regionlist_cat_popular">Popular</string>
-    <string name="regionlist_cat_new">New</string>
-    <string name="regionlist_cat_free">Free</string>
-    <string name="regionlist_cat_protected">Protected</string>
-    <string name="regionlist_cat_usercities">Own cities</string>
-    <string name="regionlist_cat_userregions">Own regions</string>
-    <string name="store_cat_other">Other</string>
-    <string name="store_cat_road">Road</string>
-    <string name="store_cat_terrain">Terrain</string>
-    <string name="store_cat_trees">Trees</string>
-    <string name="store_cat_transport">Transport</string>
-    <string name="store_cat_residential">Residential</string>
-    <string name="store_cat_commercial">Commercial</string>
+    <string name="regionlist_cat_popular">Populares</string>
+    <string name="regionlist_cat_new">Novo</string>
+    <string name="regionlist_cat_free">Grátis</string>
+    <string name="regionlist_cat_protected">Protegidos</string>
+    <string name="regionlist_cat_usercities">Suas cidades</string>
+    <string name="regionlist_cat_userregions">Suas regiões</string>
+    <string name="store_cat_other">Outros</string>
+    <string name="store_cat_road">Estrada</string>
+    <string name="store_cat_terrain">Terrenos</string>
+    <string name="store_cat_trees">Árvores</string>
+    <string name="store_cat_transport">Transporte</string>
+    <string name="store_cat_residential">Residêncial</string>
+    <string name="store_cat_commercial">Comercial</string>
     <string name="store_cat_industrial">Industrial</string>
-    <string name="store_cat_parks">Parks, Sports and Management</string>
-    <string name="store_cat_supply">Supply (Energy, Water, Waste Disposal)</string>
-    <string name="store_cat_religion">Religion and Culture</string>
-    <string name="store_cat_service">Service (Police, Health Care, Education,...)</string>
-    <string name="store_cat_award">Award and Special</string>
-    <string name="store_cat_decoration">Decorations</string>
-    <string name="store_cat_tool">Tools</string>
-    <string name="store_cat_overlay">Weather and Overlay</string>
+    <string name="store_cat_parks">Parques, Esporte e Gestão</string>
+    <string name="store_cat_supply">Fornecimento (Eletricidade, Água, Lixo)</string>
+    <string name="store_cat_religion">Religião e cultura</string>
+    <string name="store_cat_service">Serviço (Polícia, Saúde, Educação,...)</string>
+    <string name="store_cat_award">Prêmio e especial</string>
+    <string name="store_cat_decoration">Decorações</string>
+    <string name="store_cat_tool">Ferramentas</string>
+    <string name="store_cat_overlay">Clima e sobreposição</string>
     <string name="store_cat_pack">Packs</string>
-    <string name="store_cat_roaddecoration">Road decoration</string>
-    <string name="store_cat_military">Military</string>
-    <string name="dialog_confirmsendgift_title">Send gift</string>
-    <string name="dialog_confirmsendgift_text">Awesome! You are about to send that gift to %1$s.</string>
-    <string name="settings_category_tools">Tools</string>
+    <string name="store_cat_roaddecoration">Decoração de estradas</string>
+    <string name="store_cat_military">Militar</string>
+    <string name="dialog_confirmsendgift_title">Enviar o presente</string>
+    <string name="dialog_confirmsendgift_text">Impressionante! Você está prestes a enviar o presente para %1$s.</string>
+    <string name="settings_category_tools">Ferramentas</string>
     <string name="settings_category_gameplay">Gameplay</string>
-    <string name="settings_autosavewhenleaving">Save automatically when leaving city</string>
-    <string name="stage_regioncity_visits">Visits: %1$,d</string>
-    <string name="dialog_missingplugins_total">Used plugins</string>
-    <string name="settings_maprenderingnobackground">Transparent background in map screenshots</string>
-    <string name="dialog_citygifts_title">Gifts</string>
-    <string name="dialog_citygifts_cmdnew">Send a gift</string>
-    <string name="dialog_citygifts_nogifts_receiver">You received no gifts, yet :(</string>
-    <string name="dialog_citygifts_nogifts_other">Be the first one to send a gift</string>
-    <string name="dialog_citygifts_typemsg">A message</string>
-    <string name="dialog_citygifts_typeunknown">Unknown</string>
-    <string name="dialog_citygifts_private">(private)</string>
-    <string name="dialog_citygifts_cmdcollect">Collect</string>
-    <string name="dialog_citygifts_nomessage">The sender left no message.</string>
-    <string name="dialog_sendgift_title">Send a gift</string>
-    <string name="dialog_sendgift_cmdsend">Send it</string>
-    <string name="dialog_sendgift_typetext">Text</string>
-    <string name="dialog_sendgift_typemoney">Money</string>
-    <string name="dialog_sendgift_typediamonds">Diamonds / Region coins</string>
-    <string name="dialog_sendgift_lbltype">Type</string>
-    <string name="dialog_sendgift_lblamount">Amount</string>
-    <string name="dialog_sendgift_lblmessage">Message</string>
-    <string name="dialog_sendgift_messagedesc">Here you can enter a message for the receiver if you want to</string>
-    <string name="dialog_sendgift_lblprivate">Private</string>
-    <string name="dialog_citygifts_reportsubject">the gift by %1$s</string>
-    <string name="dialog_deletegift_title">Delete gift</string>
-    <string name="dialog_deletegift_text">Are you sure that you want to delete this gift? This cannot be undone.</string>
-    <string name="dialog_deletegift_cmd">Delete</string>
+    <string name="settings_autosavewhenleaving">Salvar automaticamente ao sair da cidade</string>
+    <string name="stage_regioncity_visits">Visitas: %1$,d</string>
+    <string name="dialog_missingplugins_total">Plugins usados</string>
+    <string name="settings_maprenderingnobackground">Plano de fundo transparente nas capturas de tela do mapa</string>
+    <string name="dialog_citygifts_title">Presente</string>
+    <string name="dialog_citygifts_cmdnew">Enviar um presente</string>
+    <string name="dialog_citygifts_nogifts_receiver">Você não recebeu nenhum presente ainda :'(</string>
+    <string name="dialog_citygifts_nogifts_other">Seja o primeiro a enviar um presente</string>
+    <string name="dialog_citygifts_typemsg">Uma messagem</string>
+    <string name="dialog_citygifts_typeunknown">Desconhecido</string>
+    <string name="dialog_citygifts_private">(privado)</string>
+    <string name="dialog_citygifts_cmdcollect">Coletar</string>
+    <string name="dialog_citygifts_nomessage">O remetente não deixou mensagem.</string>
+    <string name="dialog_sendgift_title">Enviar um presente</string>
+    <string name="dialog_sendgift_cmdsend">Enviar</string>
+    <string name="dialog_sendgift_typetext">Texto</string>
+    <string name="dialog_sendgift_typemoney">Dinheiro</string>
+    <string name="dialog_sendgift_typediamonds">Diamantes / Moedas da região</string>
+    <string name="dialog_sendgift_lbltype">Tipo</string>
+    <string name="dialog_sendgift_lblamount">Quantidade</string>
+    <string name="dialog_sendgift_lblmessage">Messagem</string>
+    <string name="dialog_sendgift_messagedesc">Aqui você pode inserir uma mensagem para o destinatário, se desejar</string>
+    <string name="dialog_sendgift_lblprivate">Privado</string>
+    <string name="dialog_citygifts_reportsubject">um presente de %1$s</string>
+    <string name="dialog_deletegift_title">Excluir presente</string>
+    <string name="dialog_deletegift_text">Tem certeza de que deseja excluir este presente? Isto não pode ser desfeito.</string>
+    <string name="dialog_deletegift_cmd">Excluir</string>
 
 
-    <string name="dialog_insufficientspace2_text">If you think this is a reporting issue please ensure that the app has actually access to external storage.</string>
-    <string name="dialog_uploadregiontoobig_title">Upload region</string>
-    <string name="dialog_uploadregiontoobig_text">This region is way too big to be uploaded :/</string>
-    <string name="channel_onlinemode_title">Online mode</string>
-    <string name="channel_onlinemode_text">New information about your cities in online mode.</string>
-    <string name="dialog_externalstorage_proceedwithout">Proceed at own risk</string>
-    <string name="dialog_externalstorage_title">No access to external storage</string>
-    <string name="dialog_externalstorage_explanation">TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.
-By doing so we can circumvent potential data loss caused by app updates or re-installation.
-\n\nThe game should be able to run without that permission. However, we don\'t take any responsibility for potential data loss or broken functionality caused by using the internal storage.</string>
-    <string name="dialog_onlinenotifications_title">Notifications</string>
-    <string name="dialog_onlinenotifications_time">%1$s ago</string>
-    <string name="dialog_onlinenotifications_empty">No notifications, yet</string>
-    <string name="dialog_onlinenotifications_cmdempty">Notifications</string>
-    <string name="dialog_onlinenotifications_cmdnonempty">Notifications (%1$,d)</string>
-    <string name="dialog_reason_title">Reason</string>
-    <string name="dialog_reason_text">In order to proceed you have to specify a reason for this action.</string>
-    <string name="store_realtitle">Plugin Store</string>
-    <string name="settings_pushnotificationsonline">Notifications about online mode</string>
-    <string name="settings_verticaltoolbar">Vertical toolbar</string>
-    <string name="settings_darktoolbar">Dark toolbar</string>
-    <string name="dialog_tutwelcome_title">Welcome to TheoTown</string>
-    <string name="dialog_tutwelcome_text">We will now start with the tutorial to teach you the basics about how to build up your city.\n\n
-You can skip the tutorial if you already know how to play. You can skip the tutorial at any time in the game menu.</string>
-    <string name="dialog_tutwelcome_cmdskip">Skip tutorial</string>
-    <string name="dialog_tutwelcome_start">Let\'s go</string>
+    <string name="dialog_insufficientspace2_text">Se você acha que este é um problema de relatório, certifique-se de que o aplicativo tenha realmente acesso ao armazenamento externo.</string>
+    <string name="dialog_uploadregiontoobig_title">Upload da região</string>
+    <string name="dialog_uploadregiontoobig_text">Essa região é muito grande para o upload :/</string>
+    <string name="channel_onlinemode_title">Modo online</string>
+    <string name="channel_onlinemode_text">Novas informações sobre suas cidades no modo online.</string>
+    <string name="dialog_externalstorage_proceedwithout">Prossiga por sua conta e risco</string>
+    <string name="dialog_externalstorage_title">Sem acesso ao armazenamento externo</string>
+    <string name="dialog_externalstorage_explanation">TheoTown usa a permissão de armazenamento externo para salvar cidades e regiões de uma forma acessível ao usuário.
+Fazendo isso, podemos contornar uma possível perda de dados causada por atualizações ou reinstalações de aplicativos.
+\n\nO jogo deve ser executado sem essa permissão. No entanto, não assumimos qualquer responsabilidade por possível perda de dados ou falha de funcionalidade causada pelo uso do armazenamento interno.</string>
+    <string name="dialog_onlinenotifications_title">Notificações</string>
+    <string name="dialog_onlinenotifications_time">%1$s atrás</string>
+    <string name="dialog_onlinenotifications_empty">Ainda sem notificações</string>
+    <string name="dialog_onlinenotifications_cmdempty">Notificações</string>
+    <string name="dialog_onlinenotifications_cmdnonempty">Notificações (%1$,d)</string>
+    <string name="dialog_reason_title">Motivo</string>
+    <string name="dialog_reason_text">Para continuar, você deve especificar um motivo para esta ação.</string>
+    <string name="store_realtitle">Loja de Plugins</string>
+    <string name="settings_pushnotificationsonline">Notificação sobre a região online</string>
+    <string name="settings_verticaltoolbar">Barra de ferramentas vertical</string>
+    <string name="settings_darktoolbar">Barra de ferramentas escuro</string>
+    <string name="dialog_tutwelcome_title">Bem-Vindo(a) ao TheoTown</string>
+    <string name="dialog_tutwelcome_text">Agora começaremos com o tutorial para ensinar o básico sobre como construir sua cidade.\n\n
+Você pode pular o tutorial se você já sabe como jogar. Você pode pular o tutorial a qualquer momento no menu do jogo.</string>
+    <string name="dialog_tutwelcome_cmdskip">Pular Tutorial</string>
+    <string name="dialog_tutwelcome_start">Vamos lá</string>
 
 
     <string name="settings_catplugins">Plugins</string>
     <string name="settings_keys">Keys</string>
-    <string name="settings_keys_cmdreset">Set to default</string>
-    <string name="settings_keys_text">Currently assigned: %1$s\n
-Default: %2$s\n\n
-Press a key to assign it to this action.</string>
-    <string name="settings_toolbarnames">Show names in toolbar</string>
-    <string name="settings_toolbarprices">Show prices in toolbar</string>
+    <string name="settings_keys_cmdreset">Definido como padrão</string>
+    <string name="settings_keys_text">Atualmente atribuído: %1$s\n
+Padrão: %2$s\n\n
+Pressione uma tecla para atribuí-la a esta ação.</string>
+    <string name="settings_toolbarnames">Mostrar nomes na barra de ferramentas</string>
+    <string name="settings_toolbarprices">Mostrar preços na barra de ferramentas</string>
 
 
-    <string name="shader_default2">Default</string>
+    <string name="shader_default2">Padrão</string>
 
 </resources>
